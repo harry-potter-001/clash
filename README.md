@@ -5,7 +5,7 @@ This is a simple shell script to install/uninstall clash-core-premium for linux.
 ## Install command
 
 ```
-git clone https://github.com/MalinrRuwan/ClashInstaller.git && cd ClashInstaller && chmod +x clash-install.sh && sudo ./clash-install.sh
+git clone https://github.com/harry-potter-001/clash.git && cd ClashInstaller && chmod +x clash-install.sh && sudo ./clash-install.sh
 ```
 ## Uninstall command
 
