@@ -33,7 +33,7 @@ EOF
 
 sudo systemctl daemon-reload
 
-wget https://github.com/haishanh/yacd/releases/download/v0.3.6/yacd.tar.xz
+wget https://github.com/haishanh/yacd/releases/download/v0.3.8/yacd.tar.xz
 tar -xvf yacd.tar.xz
 rm -rf yacd.tar.xz
 mv public /etc/clash/web-ui
