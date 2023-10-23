@@ -10,7 +10,7 @@ git clone https://github.com/harry-potter-001/clash.git && cd clash && chmod +x 
 ## Uninstall command
 
 ```
-git clone https://github.com/MalinrRuwan/ClashInstaller.git && cd ClashInstaller && chmod +x clash-uninstall.sh && sudo ./clash-uninstall.sh
+git clone https://github.com/harry-potter-001/clash.git && cd clash && chmod +x clash-uninstall.sh && sudo ./clash-uninstall.sh
 ```
 ## Usage
 > This shell script uses a systemd.service file to control the clash core
